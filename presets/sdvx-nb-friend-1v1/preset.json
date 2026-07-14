@@ -1,0 +1,10 @@
+{
+    "name" : "SDVX Nabla 1-1 Friend Battle",
+    "description" : "A preset for Sound Voltex ∇ friend battles, one on one.",
+    "game" : "sdvx-nb",
+    "searchAreas" : [
+        {"x" : 510, "y" : 309, "charX" : 23, "charY" : 23, "charCount" : 0},
+        {"x" : 489, "y" : 263, "charX" : 32, "charY" : 34, "charCount" : 4},
+        {"x" : 616, "y" : 275, "charX" : 22, "charY" : 24, "charCount" : 4}
+    ]
+}
